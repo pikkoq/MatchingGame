@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import "./MatchingApp.css";
 type ButtonState = "DEFAULT" | "SELECTED" | "WRONG";
 type Option = {
   value: string;

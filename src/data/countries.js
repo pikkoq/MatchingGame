@@ -31,4 +31,3 @@ export const fetchCountries = async () => {
     return null;
   }
 };
-//export const Data = await fetchCountries();
